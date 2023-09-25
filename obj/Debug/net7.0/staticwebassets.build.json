@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Su2jkXmbz2teJU9zh4nWglI2mVKtODbpmBFwDZKVoFw=",
+  "Source": "DotnetAppWith.Hangfire.Example",
+  "BasePath": "_content/DotnetAppWith.Hangfire.Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
